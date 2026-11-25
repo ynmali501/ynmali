@@ -1,0 +1,83 @@
+   "text": "周二A股盘前最新美股为美东11-23周一收盘；利率来源时点有差异，本报告并列Dow Jones 4.919%与FRED 4.92%，不沿用11-20。"
+  },
+  {
+   "type": "p",
+   "text": "[纳指/AP](https://apnews.com/article/wall-street-stocks-dow-nasdaq-fcdf1bad36b4f81c90cbb0f33a2c5704)；[费半](https://indexes.nasdaqomx.com/Index/History/SOX)；[金龙](https://indexes.nasdaqomx.com/Index/History/HXC)；[布油Dow Jones](https://www.morningstar.com/news/dow-jones/202611237545/front-month-ice-brent-crude-fell-346-to-settle-at-8937-data-talk)；[10Y Dow Jones](https://www.morningstar.com/news/dow-jones/202611237652/10-year-treasury-yield-rises-to-4919-data-talk)；[FRED](https://fred.stlouisfed.org/series/dgs10)"
+  }
+ ],
+ "s8": [
+  {
+   "type": "p",
+   "text": "外盘科技强反与A股电子回流共振，R31解除后电子升主攻；但A股虚火、跌家3498与主力净流出，主攻只做确认、不追高开。"
+  },
+  {
+   "type": "table",
+   "title": "分层观察",
+   "head": [
+    "层",
+    "证据",
+    "风险"
+   ],
+   "rows": [
+    [
+     "高标",
+     "中京电子4板",
+     "孤立高标不等于主线"
+    ],
+    [
+     "电子",
+     "资金第1、中京电子3→4板",
+     "5日涨幅-3.08%，钱进价没涨"
+    ],
+    [
+     "通信",
+     "资金第3、外盘映射",
+     "龙头缺失，5日涨幅-4.25%"
+    ]
+   ]
+  }
+ ],
+ "s10": [
+  {
+   "type": "p",
+   "text": "对照昨日forecast.wrong_if：上涨1952<2500、涨停55≥45、上证未失守3504、电子资金正；上修条件未全满足，不补认整组触发。昨日state有psy_watch，按原文回填。"
+  },
+  {
+   "type": "p",
+   "text": "虚火分化（当日交易性回流但广度塌陷）：主力净流出37.89亿元、上涨1952家、跌家3498家；宽基ETF净流入24.11亿元与个股主力背离。"
+  },
+  {
+   "type": "p",
+   "text": "11-25 10:00~10:30上涨家数若<2500或电子主力转负，则科技反包假说证伪，主攻降级、停止新增。"
+  }
+ ],
+ "s11": [
+  {
+   "type": "list",
+   "title": "活动风险日历",
+   "style": "warn",
+   "items": [
+    "持续携带·R31/利率：美东11-23 10Y收盘4.919%，T13达成、R31解除；若10Y重新破5%且T13不成立，R31按口径重新生效。携带到11-26。",
+    "12月议息加息预期：沿用昨日风险背景，不把未重新核实会议日程写成新确认。携带到11-26。",
+    "11-24 23:00北京·美国消费者信心（持有中），TD日历。携带到11-26。",
+    "中东/霍尔木兹与油价风险：美东11-23 Brent结算89.37美元，盘前需核最新供给消息，不继续用昨日旧价。携带到11-26。",
+    "美国对华出口管制传闻：昨日AMD相关传闻未独立核实，不写成落地政策。携带到11-26。",
+    "11-25 21:30北京·GDP二读/收入支出，卖出日收盘后、窗口外；延长持仓需重评。携带到11-26。"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "已结项移除：11-23 PMI与美东11-23收盘等待事项，周二已可反应，不再作为未来待公布。"
+  }
+ ],
+ "s12": [
+  {
+   "type": "p",
+   "text": "A股只用本次market_20261124.json，比较仅用market_20261123.json；昨日判断/规则/历史只用state_v4_20261123.json。昨日report只读取s11风险日历，无正文照抄。"
+  },
+  {
+   "type": "p",
+   "text": "[纳指/AP](https://apnews.com/article/wall-street-stocks-dow-nasdaq-fcdf1bad36b4f81c90cbb0f33a2c5704)；[费半](https://indexes.nasdaqomx.com/Index/History/SOX)；[金龙](https://indexes.nasdaqomx.com/Index/History/HXC)；[布油Dow Jones](https://www.morningstar.com/news/dow-jones/202611237545/front-month-ice-brent-crude-fell-346-to-settle-at-8937-data-talk)；[10Y Dow Jones](https://www.morningstar.com/news/dow-jones/202611237652/10-year-treasury-yield-rises-to-4919-data-talk)；[FRED](https://fred.stlouisfed.org/series/dgs10)"
+  }
+ ]
+}

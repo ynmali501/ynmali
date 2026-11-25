@@ -1,0 +1,507 @@
+    "amount_yi": 3557.63,
+    "flow_ratio_pct": 2.34
+   },
+   {
+    "sector": "基金重仓",
+    "pct": 0.61,
+    "inflow_5d_yi": 210.96,
+    "pct_5d": -2.55,
+    "inflow_yi": 81.11,
+    "amount_yi": 2863.01,
+    "flow_ratio_pct": 2.83
+   },
+   {
+    "sector": "权重股",
+    "pct": 0.73,
+    "inflow_5d_yi": 178.32,
+    "pct_5d": 0.93,
+    "inflow_yi": 63.33,
+    "amount_yi": 2543.54,
+    "flow_ratio_pct": 2.49
+   },
+   {
+    "sector": "CPO概念",
+    "pct": 0.95,
+    "inflow_5d_yi": 146.81,
+    "pct_5d": -1.15,
+    "inflow_yi": 62.72,
+    "amount_yi": 2177.65,
+    "flow_ratio_pct": 2.88
+   },
+   {
+    "sector": "大盘股",
+    "pct": -0.04,
+    "inflow_5d_yi": 77.48,
+    "pct_5d": -1.1,
+    "inflow_yi": 54.67,
+    "amount_yi": 6039.76,
+    "flow_ratio_pct": 0.91
+   },
+   {
+    "sector": "大盘成长",
+    "pct": 0.44,
+    "inflow_5d_yi": 198.14,
+    "pct_5d": -0.66,
+    "inflow_yi": 53.98,
+    "amount_yi": 3552.04,
+    "flow_ratio_pct": 1.52
+   },
+   {
+    "sector": "MSCI中国",
+    "pct": -0.32,
+    "inflow_5d_yi": -91.11,
+    "pct_5d": -1.97,
+    "inflow_yi": 46.12,
+    "amount_yi": 7828.3,
+    "flow_ratio_pct": 0.59
+   },
+   {
+    "sector": "5G概念",
+    "pct": 0.51,
+    "inflow_5d_yi": 157.19,
+    "pct_5d": -3.41,
+    "inflow_yi": 41.24,
+    "amount_yi": 3117.64,
+    "flow_ratio_pct": 1.32
+   },
+   {
+    "sector": "HS300_",
+    "pct": -0.25,
+    "inflow_5d_yi": 34.61,
+    "pct_5d": -1.29,
+    "inflow_yi": 39.42,
+    "amount_yi": 5068.66,
+    "flow_ratio_pct": 0.78
+   }
+  ],
+  "bottom": [
+   {
+    "sector": "网络安全",
+    "pct": -0.35,
+    "inflow_5d_yi": -92.56,
+    "pct_5d": -6.34,
+    "inflow_yi": -27.14,
+    "amount_yi": 571.9,
+    "flow_ratio_pct": -4.75
+   },
+   {
+    "sector": "深股通",
+    "pct": -0.07,
+    "inflow_5d_yi": -374.04,
+    "pct_5d": -4.97,
+    "inflow_yi": -29.54,
+    "amount_yi": 7855.06,
+    "flow_ratio_pct": -0.38
+   },
+   {
+    "sector": "富时罗素",
+    "pct": -0.57,
+    "inflow_5d_yi": -368.17,
+    "pct_5d": -4.34,
+    "inflow_yi": -39.68,
+    "amount_yi": 7438.94,
+    "flow_ratio_pct": -0.53
+   },
+   {
+    "sector": "标准普尔",
+    "pct": -0.76,
+    "inflow_5d_yi": -393.77,
+    "pct_5d": -4.43,
+    "inflow_yi": -51.73,
+    "amount_yi": 5246.78,
+    "flow_ratio_pct": -0.99
+   },
+   {
+    "sector": "央国企改革",
+    "pct": -0.72,
+    "inflow_5d_yi": -301.04,
+    "pct_5d": -5.8,
+    "inflow_yi": -78.08,
+    "amount_yi": 4007.65,
+    "flow_ratio_pct": -1.95
+   }
+  ],
+  "count": 501,
+  "_source": "ulist 点名取（代码库 2026-10-06）"
+ },
+ "stock_flow_top": [
+  {
+   "code": "601138",
+   "name": "工业富联",
+   "pct": 6.97,
+   "main_inflow_yi": 22.93,
+   "super_large_yi": 24.75,
+   "inflow_5d_yi": 33.12,
+   "pct_5d": 14.09
+  },
+  {
+   "code": "300308",
+   "name": "中际旭创",
+   "pct": -0.05,
+   "main_inflow_yi": 11.77,
+   "super_large_yi": 9.69,
+   "inflow_5d_yi": 50.61,
+   "pct_5d": 6.11
+  },
+  {
+   "code": "688256",
+   "name": "寒武纪",
+   "pct": 6.03,
+   "main_inflow_yi": 10.82,
+   "super_large_yi": 10.34,
+   "inflow_5d_yi": 20.69,
+   "pct_5d": 7.21
+  },
+  {
+   "code": "002384",
+   "name": "东山精密",
+   "pct": 1.72,
+   "main_inflow_yi": 9.27,
+   "super_large_yi": 13.75,
+   "inflow_5d_yi": 11.92,
+   "pct_5d": 1.31
+  },
+  {
+   "code": "300274",
+   "name": "阳光电源",
+   "pct": 4.83,
+   "main_inflow_yi": 8.8,
+   "super_large_yi": 3.16,
+   "inflow_5d_yi": 3.84,
+   "pct_5d": -0.45
+  },
+  {
+   "code": "300476",
+   "name": "胜宏科技",
+   "pct": 6.27,
+   "main_inflow_yi": 6.85,
+   "super_large_yi": 4.16,
+   "inflow_5d_yi": 16.62,
+   "pct_5d": 14.45
+  },
+  {
+   "code": "300394",
+   "name": "天孚通信",
+   "pct": 4.53,
+   "main_inflow_yi": 6.3,
+   "super_large_yi": 3.04,
+   "inflow_5d_yi": 22.27,
+   "pct_5d": 16.21
+  },
+  {
+   "code": "002463",
+   "name": "沪电股份",
+   "pct": 1.73,
+   "main_inflow_yi": 6.09,
+   "super_large_yi": 1,
+   "inflow_5d_yi": 29.02,
+   "pct_5d": 15.4
+  },
+  {
+   "code": "688498",
+   "name": "源杰科技",
+   "pct": -1.92,
+   "main_inflow_yi": 5.43,
+   "super_large_yi": 2.95,
+   "inflow_5d_yi": 8.31,
+   "pct_5d": -0.94
+  },
+  {
+   "code": "688347",
+   "name": "华虹宏力",
+   "pct": 10.36,
+   "main_inflow_yi": 5.2,
+   "super_large_yi": 3.53,
+   "inflow_5d_yi": 17.37,
+   "pct_5d": 21.44
+  },
+  {
+   "code": "603228",
+   "name": "景旺电子",
+   "pct": 3.11,
+   "main_inflow_yi": 5.01,
+   "super_large_yi": 5.02,
+   "inflow_5d_yi": 12.56,
+   "pct_5d": 14.46
+  },
+  {
+   "code": "603083",
+   "name": "剑桥科技",
+   "pct": -0.8,
+   "main_inflow_yi": 4.91,
+   "super_large_yi": 6.51,
+   "inflow_5d_yi": 2.99,
+   "pct_5d": -4.91
+  },
+  {
+   "code": "300750",
+   "name": "宁德时代",
+   "pct": -0.01,
+   "main_inflow_yi": 4.71,
+   "super_large_yi": 3.2,
+   "inflow_5d_yi": 13.01,
+   "pct_5d": -4.67
+  },
+  {
+   "code": "002131",
+   "name": "利欧股份",
+   "pct": 5.79,
+   "main_inflow_yi": 4.58,
+   "super_large_yi": 4.73,
+   "inflow_5d_yi": 3.88,
+   "pct_5d": 0.26
+  },
+  {
+   "code": "688981",
+   "name": "中芯国际",
+   "pct": 4.04,
+   "main_inflow_yi": 4.51,
+   "super_large_yi": 1.54,
+   "inflow_5d_yi": 16.81,
+   "pct_5d": 11.51
+  },
+  {
+   "code": "601318",
+   "name": "中国平安",
+   "pct": 2.2,
+   "main_inflow_yi": 3.78,
+   "super_large_yi": 1.5,
+   "inflow_5d_yi": 5.79,
+   "pct_5d": 0.42
+  },
+  {
+   "code": "600150",
+   "name": "中国船舶",
+   "pct": 3.03,
+   "main_inflow_yi": 3.78,
+   "super_large_yi": 1.53,
+   "inflow_5d_yi": 2.62,
+   "pct_5d": 4
+  },
+  {
+   "code": "688808",
+   "name": "联讯仪器",
+   "pct": -0.57,
+   "main_inflow_yi": 3.47,
+   "super_large_yi": 2.4,
+   "inflow_5d_yi": 5.58,
+   "pct_5d": -0.93
+  },
+  {
+   "code": "003006",
+   "name": "百亚股份",
+   "pct": -4.33,
+   "main_inflow_yi": 3.36,
+   "super_large_yi": -0.06,
+   "inflow_5d_yi": 15.48,
+   "pct_5d": 0.29
+  },
+  {
+   "code": "600839",
+   "name": "四川长虹",
+   "pct": 6.59,
+   "main_inflow_yi": 3.24,
+   "super_large_yi": 3.79,
+   "inflow_5d_yi": 2.35,
+   "pct_5d": 9.69
+  }
+ ],
+ "etf_flow": {
+  "count": 1683,
+  "top": [
+   {
+    "code": "588000",
+    "name": "科创50ETF华夏",
+    "pct": 1.62,
+    "main_inflow_yi": 9.27,
+    "inflow_5d_yi": -9.48,
+    "pct_5d": 1.93
+   },
+   {
+    "code": "159915",
+    "name": "创业板ETF易方达",
+    "pct": -0.13,
+    "main_inflow_yi": 6.16,
+    "inflow_5d_yi": -20.55,
+    "pct_5d": -0.78
+   },
+   {
+    "code": "510300",
+    "name": "沪深300ETF华泰柏瑞",
+    "pct": 0.25,
+    "main_inflow_yi": 4.1,
+    "inflow_5d_yi": -10.4,
+    "pct_5d": -0.22
+   },
+   {
+    "code": "588080",
+    "name": "科创50ETF易方达",
+    "pct": 1.51,
+    "main_inflow_yi": 2.25,
+    "inflow_5d_yi": -3.21,
+    "pct_5d": 1.84
+   },
+   {
+    "code": "510050",
+    "name": "上证50ETF华夏",
+    "pct": 0.45,
+    "main_inflow_yi": 1.93,
+    "inflow_5d_yi": 1.67,
+    "pct_5d": 0.14
+   },
+   {
+    "code": "510310",
+    "name": "沪深300ETF易方达",
+    "pct": 0.26,
+    "main_inflow_yi": 1.62,
+    "inflow_5d_yi": -2.11,
+    "pct_5d": -0.41
+   },
+   {
+    "code": "510210",
+    "name": "上证指数ETF富国",
+    "pct": 0.44,
+    "main_inflow_yi": 1.52,
+    "inflow_5d_yi": -1.07,
+    "pct_5d": -0.97
+   },
+   {
+    "code": "159949",
+    "name": "创业板50ETF华安",
+    "pct": 0,
+    "main_inflow_yi": 1.31,
+    "inflow_5d_yi": -1.72,
+    "pct_5d": -0.29
+   },
+   {
+    "code": "510500",
+    "name": "中证500ETF南方",
+    "pct": -0.55,
+    "main_inflow_yi": 1.3,
+    "inflow_5d_yi": -1.35,
+    "pct_5d": -3.02
+   },
+   {
+    "code": "159361",
+    "name": "A500ETF易方达",
+    "pct": 0.1,
+    "main_inflow_yi": 1.3,
+    "inflow_5d_yi": 1.34,
+    "pct_5d": -0.86
+   }
+  ],
+  "bottom": [
+   {
+    "code": "513310",
+    "name": "中韩半导体ETF华泰柏瑞",
+    "pct": 1.85,
+    "main_inflow_yi": -2.32,
+    "inflow_5d_yi": -12.39,
+    "pct_5d": -1.48
+   },
+   {
+    "code": "513050",
+    "name": "中概互联网ETF易方达",
+    "pct": -1.62,
+    "main_inflow_yi": -2.2,
+    "inflow_5d_yi": -11.53,
+    "pct_5d": -7.31
+   },
+   {
+    "code": "513120",
+    "name": "港股创新药ETF广发",
+    "pct": -1.87,
+    "main_inflow_yi": -2.15,
+    "inflow_5d_yi": -3.94,
+    "pct_5d": -6.53
+   },
+   {
+    "code": "517520",
+    "name": "黄金股ETF永赢",
+    "pct": -3.49,
+    "main_inflow_yi": -1.99,
+    "inflow_5d_yi": -0.64,
+    "pct_5d": -8.14
+   },
+   {
+    "code": "512880",
+    "name": "证券ETF国泰",
+    "pct": -1.52,
+    "main_inflow_yi": -1.93,
+    "inflow_5d_yi": -1.74,
+    "pct_5d": -1.72
+   },
+   {
+    "code": "513530",
+    "name": "港股通红利ETF华泰柏瑞",
+    "pct": -0.74,
+    "main_inflow_yi": -1.37,
+    "inflow_5d_yi": -4.46,
+    "pct_5d": -3.85
+   },
+   {
+    "code": "513180",
+    "name": "恒生科技ETF华夏",
+    "pct": -1.82,
+    "main_inflow_yi": -1.35,
+    "inflow_5d_yi": -5.42,
+    "pct_5d": -8.47
+   },
+   {
+    "code": "513330",
+    "name": "恒生互联网ETF华夏",
+    "pct": -2.14,
+    "main_inflow_yi": -1.2,
+    "inflow_5d_yi": -7.1,
+    "pct_5d": -10.42
+   },
+   {
+    "code": "159952",
+    "name": "创业板ETF广发",
+    "pct": -0.14,
+    "main_inflow_yi": -1.16,
+    "inflow_5d_yi": -4.8,
+    "pct_5d": -0.5
+   },
+   {
+    "code": "513090",
+    "name": "香港证券ETF易方达",
+    "pct": -1.48,
+    "main_inflow_yi": -1.04,
+    "inflow_5d_yi": -1.72,
+    "pct_5d": -5.72
+   }
+  ],
+  "_scope": "场内 ETF 全集（含跨境、货币），按今日主力净流入排序；fs=b:MK0021,b:MK0022,b:MK0023,b:MK0024",
+  "_order": "top 降序；bottom 为流出最大在前"
+ },
+ "breadth": {
+  "total": 5576,
+  "counted": 5576,
+  "up_count": 1952,
+  "down_count": 3498,
+  "flat_count": 126,
+  "amount_yi": 16680.25,
+  "_method": "指数自带家数：上证A股+深证A指+北证50（ulist，1 个请求）",
+  "_scope": "沪深京 A 股，与东财 APP 涨跌分布同口径（2026-09-30 逐项吻合：2567/2824/170）；成交额=上证指数+深证成指+北证50 之和（三市）",
+  "_parts": {
+   "上证A股": {
+    "up": 804,
+    "down": 1464,
+    "flat": 47
+   },
+   "深证A指": {
+    "up": 1034,
+    "down": 1803,
+    "flat": 67
+   },
+   "北交所(北证50)": {
+    "up": 114,
+    "down": 231,
+    "flat": 12
+   }
+  }
+ },
+ "_ok": true,
+ "_note": "本文件由 browser_pull.html 在手机浏览器直取东财接口生成，不含估算与补写。取不到的字段为\"未取到\"并记入 _errors。隔夜外盘、政策与产业催化、新闻不在本文件内。"
+}

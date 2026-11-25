@@ -1,0 +1,1541 @@
+{
+ "_tool_version": "v2.9",
+ "date": "2026-11-24",
+ "source": "东方财富（手机浏览器直取）",
+ "_errors": [],
+ "_notes": [],
+ "_generated_by": "browser_pull.html",
+ "_source": "手机浏览器直取",
+ "_generated_at": "2026-11-24T08:34:11.514Z",
+ "indices": {
+  "上证指数": {
+   "close": 3548.37,
+   "chg": 0.0027,
+   "high": 3585.22,
+   "low": 3539.01,
+   "open": 3567.84,
+   "amount_yi": 7718.61
+  },
+  "深证成指": {
+   "close": 10423.6,
+   "chg": -0.0029,
+   "high": 10729.13,
+   "low": 10418.11,
+   "open": 10708.62,
+   "amount_yi": 8832.25
+  },
+  "创业板指": {
+   "close": 2278.99,
+   "chg": -0.0005,
+   "high": 2376.34,
+   "low": 2278.99,
+   "open": 2368.7,
+   "amount_yi": 4539.45
+  },
+  "科创50": {
+   "close": 1250.09,
+   "chg": 0.0181,
+   "high": 1279.44,
+   "low": 1246.39,
+   "open": 1267.77,
+   "amount_yi": 1001.24
+  },
+  "上证50": {
+   "close": 2774.49,
+   "chg": 0.0045,
+   "high": 2780.52,
+   "low": 2756.79,
+   "open": 2768.91,
+   "amount_yi": 1445.14
+  },
+  "沪深300": {
+   "close": 3963.82,
+   "chg": 0.0014,
+   "high": 4011.69,
+   "low": 3957.92,
+   "open": 4004.04,
+   "amount_yi": 5068.66
+  },
+  "北证50": {
+   "close": 793.6,
+   "chg": -0.0022,
+   "high": 836.36,
+   "low": 793.6,
+   "open": 822.3,
+   "amount_yi": 129.39
+  }
+ },
+ "sh_index": {
+  "close": 3548.37,
+  "chg": 0.0027,
+  "high": 3585.22,
+  "low": 3539.01,
+  "open": 3567.84,
+  "amount_yi": 7718.61
+ },
+ "limit": {
+  "limitup": 55,
+  "broken": 68,
+  "limitdown": 2,
+  "sealrate": 0.4472,
+  "ladder": [
+   {
+    "boards": 4,
+    "count": 1,
+    "stocks": [
+     "中京电子"
+    ]
+   },
+   {
+    "boards": 3,
+    "count": 4,
+    "stocks": [
+     "克来机电",
+     "长华集团",
+     "金新农",
+     "东方海洋"
+    ]
+   },
+   {
+    "boards": 2,
+    "count": 25,
+    "stocks": [
+     "魅视科技",
+     "一彬科技",
+     "联创电子",
+     "汇洲智能",
+     "宁波东力",
+     "光洋股份",
+     "锋龙股份",
+     "淳中科技",
+     "创源股份",
+     "艾芬达",
+     "科森科技",
+     "杭州解百"
+    ]
+   },
+   {
+    "boards": 1,
+    "count": 25,
+    "stocks": [
+     "天圣制药",
+     "威派格",
+     "奥康国际",
+     "天安新材",
+     "奥尼电子",
+     "起帆电缆",
+     "龙软科技",
+     "雷迪克",
+     "泉阳泉",
+     "高乐股份",
+     "横河精密",
+     "原尚股份"
+    ]
+   }
+  ],
+  "top_seal": [
+   {
+    "stock": "一彬科技",
+    "code": "001278",
+    "boards": 2,
+    "seal_yi": 4.19,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "克来机电",
+    "code": "603960",
+    "boards": 3,
+    "seal_yi": 3.35,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "九阳股份",
+    "code": "002242",
+    "boards": 2,
+    "seal_yi": 3.17,
+    "sector": "小家电"
+   },
+   {
+    "stock": "宁波东力",
+    "code": "002164",
+    "boards": 2,
+    "seal_yi": 2.93,
+    "sector": "通用设备"
+   },
+   {
+    "stock": "中京电子",
+    "code": "002579",
+    "boards": 4,
+    "seal_yi": 1.97,
+    "sector": "元件"
+   },
+   {
+    "stock": "汇洲智能",
+    "code": "002122",
+    "boards": 2,
+    "seal_yi": 1.71,
+    "sector": "通用设备"
+   },
+   {
+    "stock": "光洋股份",
+    "code": "002708",
+    "boards": 2,
+    "seal_yi": 1.71,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "艾芬达",
+    "code": "301575",
+    "boards": 2,
+    "seal_yi": 1.59,
+    "sector": "家居用品"
+   },
+   {
+    "stock": "锋龙股份",
+    "code": "002931",
+    "boards": 2,
+    "seal_yi": 1.46,
+    "sector": "通用设备"
+   },
+   {
+    "stock": "福莱新材",
+    "code": "605488",
+    "boards": 2,
+    "seal_yi": 1.37,
+    "sector": "塑料"
+   },
+   {
+    "stock": "联创电子",
+    "code": "002036",
+    "boards": 2,
+    "seal_yi": 1.08,
+    "sector": "光学光电"
+   },
+   {
+    "stock": "科森科技",
+    "code": "603626",
+    "boards": 2,
+    "seal_yi": 1.07,
+    "sector": "消费电子"
+   },
+   {
+    "stock": "长华集团",
+    "code": "605018",
+    "boards": 3,
+    "seal_yi": 0.88,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "创源股份",
+    "code": "300703",
+    "boards": 2,
+    "seal_yi": 0.85,
+    "sector": "文娱用品"
+   },
+   {
+    "stock": "华东重机",
+    "code": "002685",
+    "boards": 2,
+    "seal_yi": 0.83,
+    "sector": "工程机械"
+   }
+  ],
+  "top_boards": [
+   {
+    "stock": "中京电子",
+    "code": "002579",
+    "boards": 4,
+    "seal_yi": 1.97,
+    "sector": "元件"
+   },
+   {
+    "stock": "克来机电",
+    "code": "603960",
+    "boards": 3,
+    "seal_yi": 3.35,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "长华集团",
+    "code": "605018",
+    "boards": 3,
+    "seal_yi": 0.88,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "东方海洋",
+    "code": "002086",
+    "boards": 3,
+    "seal_yi": 0.77,
+    "sector": "农产品加"
+   },
+   {
+    "stock": "金新农",
+    "code": "002548",
+    "boards": 3,
+    "seal_yi": 0.19,
+    "sector": "饲料"
+   },
+   {
+    "stock": "一彬科技",
+    "code": "001278",
+    "boards": 2,
+    "seal_yi": 4.19,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "九阳股份",
+    "code": "002242",
+    "boards": 2,
+    "seal_yi": 3.17,
+    "sector": "小家电"
+   },
+   {
+    "stock": "宁波东力",
+    "code": "002164",
+    "boards": 2,
+    "seal_yi": 2.93,
+    "sector": "通用设备"
+   },
+   {
+    "stock": "汇洲智能",
+    "code": "002122",
+    "boards": 2,
+    "seal_yi": 1.71,
+    "sector": "通用设备"
+   },
+   {
+    "stock": "光洋股份",
+    "code": "002708",
+    "boards": 2,
+    "seal_yi": 1.71,
+    "sector": "汽车零部"
+   },
+   {
+    "stock": "艾芬达",
+    "code": "301575",
+    "boards": 2,
+    "seal_yi": 1.59,
+    "sector": "家居用品"
+   },
+   {
+    "stock": "锋龙股份",
+    "code": "002931",
+    "boards": 2,
+    "seal_yi": 1.46,
+    "sector": "通用设备"
+   },
+   {
+    "stock": "福莱新材",
+    "code": "605488",
+    "boards": 2,
+    "seal_yi": 1.37,
+    "sector": "塑料"
+   },
+   {
+    "stock": "联创电子",
+    "code": "002036",
+    "boards": 2,
+    "seal_yi": 1.08,
+    "sector": "光学光电"
+   },
+   {
+    "stock": "科森科技",
+    "code": "603626",
+    "boards": 2,
+    "seal_yi": 1.07,
+    "sector": "消费电子"
+   }
+  ],
+  "by_sector": [
+   {
+    "sector": "汽车零部",
+    "count": 8
+   },
+   {
+    "sector": "通用设备",
+    "count": 5
+   },
+   {
+    "sector": "服装家纺",
+    "count": 3
+   },
+   {
+    "sector": "计算机设",
+    "count": 2
+   },
+   {
+    "sector": "光学光电",
+    "count": 2
+   },
+   {
+    "sector": "文娱用品",
+    "count": 2
+   },
+   {
+    "sector": "家居用品",
+    "count": 2
+   },
+   {
+    "sector": "消费电子",
+    "count": 2
+   },
+   {
+    "sector": "专用设备",
+    "count": 2
+   },
+   {
+    "sector": "塑料",
+    "count": 2
+   },
+   {
+    "sector": "化学制品",
+    "count": 2
+   },
+   {
+    "sector": "照明设备",
+    "count": 2
+   }
+  ],
+  "promote_rate": 0.1986,
+  "first_board_promote_rate": 0.184,
+  "prev_date": "2026-11-23",
+  "prev_limitup": 146
+ },
+ "market_flow": {
+  "date": "2026-11-24",
+  "main_net_yi": -37.89,
+  "super_large_yi": 91.31,
+  "large_yi": -129.2,
+  "mid_yi": -128.21,
+  "small_yi": 166.1,
+  "_scope": "上证+深成两市合计；2026-09-30 已核对：-136.28 亿，与东财 APP 首页「主力净流入」一致；主力＝大单＋超大单（v2.9 起字段已校正）"
+ },
+ "etf_broad_flow": {
+  "date": "2026-11-24",
+  "net_yi": 24.11,
+  "n_ok": 10,
+  "n_total": 10,
+  "rows": [
+   {
+    "code": "510300",
+    "name": "沪深300ETF华泰柏瑞",
+    "pct": 0.25,
+    "main_inflow_yi": 4.1
+   },
+   {
+    "code": "510310",
+    "name": "沪深300ETF易方达",
+    "pct": 0.26,
+    "main_inflow_yi": 1.62
+   },
+   {
+    "code": "510330",
+    "name": "沪深300ETF华夏",
+    "pct": 0.26,
+    "main_inflow_yi": 0.36
+   },
+   {
+    "code": "159919",
+    "name": "沪深300ETF嘉实",
+    "pct": 0.17,
+    "main_inflow_yi": 0.33
+   },
+   {
+    "code": "510050",
+    "name": "上证50ETF华夏",
+    "pct": 0.45,
+    "main_inflow_yi": 1.93
+   },
+   {
+    "code": "510500",
+    "name": "中证500ETF南方",
+    "pct": -0.55,
+    "main_inflow_yi": 1.3
+   },
+   {
+    "code": "512100",
+    "name": "中证1000ETF南方",
+    "pct": -0.34,
+    "main_inflow_yi": -0.87
+   },
+   {
+    "code": "159845",
+    "name": "中证1000ETF华夏",
+    "pct": -0.41,
+    "main_inflow_yi": -0.09
+   },
+   {
+    "code": "588000",
+    "name": "科创50ETF华夏",
+    "pct": 1.62,
+    "main_inflow_yi": 9.27
+   },
+   {
+    "code": "159915",
+    "name": "创业板ETF易方达",
+    "pct": -0.13,
+    "main_inflow_yi": 6.16
+   }
+  ],
+  "_scope": "宽基ETF篮子 10 只的主力净流入合计（东财 f62，单位亿）；口径是主力净流入，不是申赎份额变动"
+ },
+ "margin": {
+  "date": "2026-11-23",
+  "rzrq_balance_yi": 21711.35,
+  "rz_balance_yi": 21419.38,
+  "rq_balance_yi": 291.97,
+  "rz_net_buy_yi": -89.24,
+  "_scope": "沪深两市融资融券汇总（东财数据中心 RPTA_RZRQ_LSHJ，不含北交所）；T+1：收盘后取到的通常是上一交易日，以 date 为准"
+ },
+ "billboard": {
+  "count": 35,
+  "top": [
+   {
+    "name": "华东重机",
+    "code": "002685",
+    "chg": 9.9509,
+    "net_yi": -4.17,
+    "buy_yi": 2.98,
+    "sell_yi": 7.15,
+    "reason": "上海资金买入，成功率46.26%"
+   },
+   {
+    "name": "九阳股份",
+    "code": "002242",
+    "chg": 10.0126,
+    "net_yi": 2.21,
+    "buy_yi": 3.43,
+    "sell_yi": 1.22,
+    "reason": "买一主买，成功率46.66%"
+   },
+   {
+    "name": "粤芯半导体",
+    "code": "301660",
+    "chg": -4.0313,
+    "net_yi": -1.58,
+    "buy_yi": 2.01,
+    "sell_yi": 3.59,
+    "reason": "2家机构卖出，成功率22.21%"
+   },
+   {
+    "name": "西陇科学",
+    "code": "002584",
+    "chg": 1.4118,
+    "net_yi": -1.56,
+    "buy_yi": 1.32,
+    "sell_yi": 2.88,
+    "reason": "西藏自治区资金买入，成功率15.17%"
+   },
+   {
+    "name": "真视通",
+    "code": "002771",
+    "chg": -0.4023,
+    "net_yi": -1.42,
+    "buy_yi": 1.25,
+    "sell_yi": 2.67,
+    "reason": "主力做T，成功率31.33%"
+   },
+   {
+    "name": "横河精密",
+    "code": "300539",
+    "chg": 19.9787,
+    "net_yi": 1.36,
+    "buy_yi": 2.09,
+    "sell_yi": 0.73,
+    "reason": "2家机构买入，成功率38.54%"
+   },
+   {
+    "name": "东方精工",
+    "code": "002611",
+    "chg": 10.0412,
+    "net_yi": 1.24,
+    "buy_yi": 2.49,
+    "sell_yi": 1.26,
+    "reason": "1家机构买入，成功率33.69%"
+   },
+   {
+    "name": "恒工精密",
+    "code": "301261",
+    "chg": 14.0264,
+    "net_yi": 1.19,
+    "buy_yi": 3.65,
+    "sell_yi": 2.46,
+    "reason": "3家机构买入，成功率37.53%"
+   },
+   {
+    "name": "同星科技",
+    "code": "301252",
+    "chg": 20,
+    "net_yi": 0.91,
+    "buy_yi": 2.42,
+    "sell_yi": 1.5,
+    "reason": "3家机构买入，成功率30.81%"
+   },
+   {
+    "name": "艾芬达",
+    "code": "301575",
+    "chg": 20.0139,
+    "net_yi": 0.77,
+    "buy_yi": 1.49,
+    "sell_yi": 0.73,
+    "reason": "1家机构买入，成功率39.21%"
+   },
+   {
+    "name": "高乐股份",
+    "code": "002348",
+    "chg": 10.0254,
+    "net_yi": 0.72,
+    "buy_yi": 4.07,
+    "sell_yi": 3.35,
+    "reason": "2家机构买入，成功率39.41%"
+   },
+   {
+    "name": "凡拓数创",
+    "code": "301313",
+    "chg": 16.6361,
+    "net_yi": 0.68,
+    "buy_yi": 4.44,
+    "sell_yi": 3.76,
+    "reason": "4家机构买入，成功率33.43%"
+   },
+   {
+    "name": "华晟智能",
+    "code": "920067",
+    "chg": -15.5499,
+    "net_yi": 0.5,
+    "buy_yi": 0.72,
+    "sell_yi": 0.22,
+    "reason": "西藏自治区资金卖出，成功率38.03%"
+   },
+   {
+    "name": "鑫铂股份",
+    "code": "003038",
+    "chg": -10,
+    "net_yi": -0.49,
+    "buy_yi": 0.26,
+    "sell_yi": 0.75,
+    "reason": "主力做T，成功率18.23%"
+   },
+   {
+    "name": "果麦文化",
+    "code": "301052",
+    "chg": -0.0906,
+    "net_yi": 0.46,
+    "buy_yi": 2.35,
+    "sell_yi": 1.89,
+    "reason": "4家机构卖出，成功率20.02%"
+   },
+   {
+    "name": "冰山冷热",
+    "code": "000530",
+    "chg": -0.7396,
+    "net_yi": -0.44,
+    "buy_yi": 3.31,
+    "sell_yi": 3.74,
+    "reason": "1家机构卖出，成功率21.72%"
+   },
+   {
+    "name": "奥尼电子",
+    "code": "301189",
+    "chg": 20.011,
+    "net_yi": 0.42,
+    "buy_yi": 0.75,
+    "sell_yi": 0.34,
+    "reason": "1家机构买入，成功率34.32%"
+   },
+   {
+    "name": "托伦斯",
+    "code": "301583",
+    "chg": -3.3598,
+    "net_yi": -0.38,
+    "buy_yi": 1.3,
+    "sell_yi": 1.68,
+    "reason": "2家机构卖出，成功率16.23%"
+   },
+   {
+    "name": "贝特利",
+    "code": "301697",
+    "chg": -0.9647,
+    "net_yi": -0.28,
+    "buy_yi": 0.64,
+    "sell_yi": 0.91,
+    "reason": "4家机构卖出，成功率25.42%"
+   },
+   {
+    "name": "东方海洋",
+    "code": "002086",
+    "chg": 9.9274,
+    "net_yi": -0.27,
+    "buy_yi": 3.03,
+    "sell_yi": 3.3,
+    "reason": "普通席位买入，成功率39.05%"
+   }
+  ]
+ },
+ "billboard_org": {
+  "net_buy_top": [
+   {
+    "name": "凡拓数创",
+    "code": "301313",
+    "chg": 16.6361,
+    "net_yi": 1.06,
+    "buy_times": 4,
+    "sell_times": 3
+   },
+   {
+    "name": "恒工精密",
+    "code": "301261",
+    "chg": 14.0264,
+    "net_yi": 1.03,
+    "buy_times": 3,
+    "sell_times": 3
+   },
+   {
+    "name": "安培龙",
+    "code": "301413",
+    "chg": 19.9973,
+    "net_yi": 0.6,
+    "buy_times": 4,
+    "sell_times": 2
+   },
+   {
+    "name": "同星科技",
+    "code": "301252",
+    "chg": 20,
+    "net_yi": 0.6,
+    "buy_times": 3,
+    "sell_times": 3
+   },
+   {
+    "name": "横河精密",
+    "code": "300539",
+    "chg": 19.9787,
+    "net_yi": 0.57,
+    "buy_times": 2,
+    "sell_times": 0
+   },
+   {
+    "name": "同星科技",
+    "code": "301252",
+    "chg": 20,
+    "net_yi": 0.53,
+    "buy_times": 4,
+    "sell_times": 2
+   },
+   {
+    "name": "果麦文化",
+    "code": "301052",
+    "chg": -0.0906,
+    "net_yi": 0.45,
+    "buy_times": 4,
+    "sell_times": 4
+   },
+   {
+    "name": "冰山冷热",
+    "code": "000530",
+    "chg": -0.7396,
+    "net_yi": 0.31,
+    "buy_times": 3,
+    "sell_times": 1
+   },
+   {
+    "name": "维宏股份",
+    "code": "300508",
+    "chg": 14.2226,
+    "net_yi": 0.23,
+    "buy_times": 5,
+    "sell_times": 4
+   },
+   {
+    "name": "安培龙",
+    "code": "301413",
+    "chg": 19.9973,
+    "net_yi": 0.2,
+    "buy_times": 3,
+    "sell_times": 2
+   }
+  ],
+  "net_sell_top": [
+   {
+    "name": "粤芯半导体",
+    "code": "301660",
+    "chg": -4.0313,
+    "net_yi": -0.8,
+    "buy_times": 0,
+    "sell_times": 2
+   },
+   {
+    "name": "西陇科学",
+    "code": "002584",
+    "chg": 1.4118,
+    "net_yi": -0.52,
+    "buy_times": 1,
+    "sell_times": 2
+   },
+   {
+    "name": "贝特利",
+    "code": "301697",
+    "chg": -0.9647,
+    "net_yi": -0.28,
+    "buy_times": 1,
+    "sell_times": 4
+   },
+   {
+    "name": "托伦斯",
+    "code": "301583",
+    "chg": -3.3598,
+    "net_yi": -0.15,
+    "buy_times": 1,
+    "sell_times": 2
+   },
+   {
+    "name": "创源股份",
+    "code": "300703",
+    "chg": 19.9838,
+    "net_yi": -0.07,
+    "buy_times": 1,
+    "sell_times": 2
+   },
+   {
+    "name": "ST欢瑞",
+    "code": "000892",
+    "chg": -10.0559,
+    "net_yi": -0.03,
+    "buy_times": 0,
+    "sell_times": 1
+   },
+   {
+    "name": "高乐股份",
+    "code": "002348",
+    "chg": 10.0254,
+    "net_yi": 0.01,
+    "buy_times": 2,
+    "sell_times": 2
+   },
+   {
+    "name": "*ST西旅",
+    "code": "000610",
+    "chg": -7.578,
+    "net_yi": 0.03,
+    "buy_times": 3,
+    "sell_times": 1
+   },
+   {
+    "name": "国光股份",
+    "code": "002749",
+    "chg": 7.4595,
+    "net_yi": 0.03,
+    "buy_times": 1,
+    "sell_times": 0
+   },
+   {
+    "name": "海洋王",
+    "code": "002724",
+    "chg": 10,
+    "net_yi": 0.04,
+    "buy_times": 1,
+    "sell_times": 0
+   }
+  ],
+  "total_net_yi": 4.38
+ },
+ "block_trade": {
+  "count": 27,
+  "amt_yi": 3.59,
+  "avg_premium_pct": -0.05,
+  "deep_discount": 0,
+  "top": [
+   {
+    "name": "国瓷材料",
+    "code": "300285",
+    "amt_yi": 0.78,
+    "premium_pct": -0.003718535469
+   },
+   {
+    "name": "海大集团",
+    "code": "002311",
+    "amt_yi": 0.6,
+    "premium_pct": 0
+   },
+   {
+    "name": "海大集团",
+    "code": "002311",
+    "amt_yi": 0.5,
+    "premium_pct": 0
+   },
+   {
+    "name": "华夏国证自由现金流ETF",
+    "code": "159201",
+    "amt_yi": 0.45,
+    "premium_pct": 0.013452914798
+   },
+   {
+    "name": "海大集团",
+    "code": "002311",
+    "amt_yi": 0.28,
+    "premium_pct": 0
+   },
+   {
+    "name": "可孚医疗",
+    "code": "301087",
+    "amt_yi": 0.15,
+    "premium_pct": -0.019072965181
+   },
+   {
+    "name": "中集车辆",
+    "code": "301039",
+    "amt_yi": 0.12,
+    "premium_pct": -0.188466947961
+   },
+   {
+    "name": "国科天成",
+    "code": "301571",
+    "amt_yi": 0.09,
+    "premium_pct": -0.019977261653
+   },
+   {
+    "name": "尚太转债",
+    "code": "127112",
+    "amt_yi": 0.08,
+    "premium_pct": -0.003649056005
+   },
+   {
+    "name": "若羽臣",
+    "code": "003010",
+    "amt_yi": 0.06,
+    "premium_pct": -0.106115107914
+   }
+  ]
+ },
+ "sector_flow_industry": {
+  "top": [
+   {
+    "sector": "电子",
+    "pct": 0.87,
+    "inflow_5d_yi": 120.93,
+    "pct_5d": -3.08,
+    "inflow_yi": 64.73,
+    "amount_yi": 4545.2,
+    "flow_ratio_pct": 1.42
+   },
+   {
+    "sector": "印制电路板",
+    "pct": -0.42,
+    "inflow_5d_yi": 151.87,
+    "pct_5d": 6.37,
+    "inflow_yi": 33.92,
+    "amount_yi": 953.02,
+    "flow_ratio_pct": 3.56
+   },
+   {
+    "sector": "元件",
+    "pct": -0.23,
+    "inflow_5d_yi": 152.72,
+    "pct_5d": 4.6,
+    "inflow_yi": 30.47,
+    "amount_yi": 1078.96,
+    "flow_ratio_pct": 2.82
+   },
+   {
+    "sector": "消费电子零部件及组装",
+    "pct": 1.96,
+    "inflow_5d_yi": 22.87,
+    "pct_5d": -5.05,
+    "inflow_yi": 25.62,
+    "amount_yi": 517.16,
+    "flow_ratio_pct": 4.95
+   },
+   {
+    "sector": "消费电子",
+    "pct": 1.92,
+    "inflow_5d_yi": 21.48,
+    "pct_5d": -4.86,
+    "inflow_yi": 25,
+    "amount_yi": 566.79,
+    "flow_ratio_pct": 4.41
+   },
+   {
+    "sector": "通信网络设备及器件",
+    "pct": 0.76,
+    "inflow_5d_yi": 101.82,
+    "pct_5d": -3.13,
+    "inflow_yi": 17.15,
+    "amount_yi": 929.02,
+    "flow_ratio_pct": 1.85
+   },
+   {
+    "sector": "通信设备",
+    "pct": 0.76,
+    "inflow_5d_yi": 78.49,
+    "pct_5d": -4.53,
+    "inflow_yi": 12.92,
+    "amount_yi": 1238.27,
+    "flow_ratio_pct": 1.04
+   },
+   {
+    "sector": "半导体",
+    "pct": 1.08,
+    "inflow_5d_yi": -24.36,
+    "pct_5d": -3.36,
+    "inflow_yi": 10.73,
+    "amount_yi": 2257.54,
+    "flow_ratio_pct": 0.48
+   },
+   {
+    "sector": "逆变器",
+    "pct": 2.86,
+    "inflow_5d_yi": 6.17,
+    "pct_5d": -6.33,
+    "inflow_yi": 10.32,
+    "amount_yi": 112.01,
+    "flow_ratio_pct": 9.21
+   },
+   {
+    "sector": "国防军工",
+    "pct": 1.16,
+    "inflow_5d_yi": -48.34,
+    "pct_5d": -6.8,
+    "inflow_yi": 9.56,
+    "amount_yi": 389.96,
+    "flow_ratio_pct": 2.45
+   }
+  ],
+  "bottom": [
+   {
+    "sector": "证券Ⅲ",
+    "pct": -1.56,
+    "inflow_5d_yi": -33.88,
+    "pct_5d": -2.97,
+    "inflow_yi": -15.63,
+    "amount_yi": 204.07,
+    "flow_ratio_pct": -7.66
+   },
+   {
+    "sector": "证券Ⅱ",
+    "pct": -1.56,
+    "inflow_5d_yi": -33.88,
+    "pct_5d": -2.97,
+    "inflow_yi": -15.63,
+    "amount_yi": 204.07,
+    "flow_ratio_pct": -7.66
+   },
+   {
+    "sector": "医药生物",
+    "pct": -1.09,
+    "inflow_5d_yi": -119.27,
+    "pct_5d": -6.97,
+    "inflow_yi": -17.06,
+    "amount_yi": 734.42,
+    "flow_ratio_pct": -2.32
+   },
+   {
+    "sector": "有色金属",
+    "pct": -1.33,
+    "inflow_5d_yi": -101.18,
+    "pct_5d": -6.86,
+    "inflow_yi": -20.7,
+    "amount_yi": 706.83,
+    "flow_ratio_pct": -2.93
+   },
+   {
+    "sector": "计算机",
+    "pct": -0.11,
+    "inflow_5d_yi": -102.62,
+    "pct_5d": -5.97,
+    "inflow_yi": -22.95,
+    "amount_yi": 978.43,
+    "flow_ratio_pct": -2.35
+   }
+  ],
+  "count": 496,
+  "_source": "ulist 点名取（代码库 2026-10-06）"
+ },
+ "sector_flow_sw1": {
+  "count": 31,
+  "rows": [
+   {
+    "sector": "电子",
+    "pct": 0.87,
+    "inflow_5d_yi": 120.93,
+    "pct_5d": -3.08,
+    "inflow_yi": 64.73,
+    "amount_yi": 4545.2,
+    "flow_ratio_pct": 1.42
+   },
+   {
+    "sector": "国防军工",
+    "pct": 1.16,
+    "inflow_5d_yi": -48.34,
+    "pct_5d": -6.8,
+    "inflow_yi": 9.56,
+    "amount_yi": 389.96,
+    "flow_ratio_pct": 2.45
+   },
+   {
+    "sector": "通信",
+    "pct": 0.53,
+    "inflow_5d_yi": 74.21,
+    "pct_5d": -4.25,
+    "inflow_yi": 8.02,
+    "amount_yi": 1376.09,
+    "flow_ratio_pct": 0.58
+   },
+   {
+    "sector": "家用电器",
+    "pct": 1.16,
+    "inflow_5d_yi": -25.65,
+    "pct_5d": -4.93,
+    "inflow_yi": 6.02,
+    "amount_yi": 310.62,
+    "flow_ratio_pct": 1.94
+   },
+   {
+    "sector": "银行",
+    "pct": -0.31,
+    "inflow_5d_yi": -28.35,
+    "pct_5d": -1.3,
+    "inflow_yi": 5.41,
+    "amount_yi": 414.41,
+    "flow_ratio_pct": 1.31
+   },
+   {
+    "sector": "美容护理",
+    "pct": 0.21,
+    "inflow_5d_yi": 10.23,
+    "pct_5d": -5.9,
+    "inflow_yi": 3.02,
+    "amount_yi": 32.87,
+    "flow_ratio_pct": 9.19
+   },
+   {
+    "sector": "电力设备",
+    "pct": -0.32,
+    "inflow_5d_yi": -86,
+    "pct_5d": -7.06,
+    "inflow_yi": 2.85,
+    "amount_yi": 1088.42,
+    "flow_ratio_pct": 0.26
+   },
+   {
+    "sector": "纺织服饰",
+    "pct": 0.43,
+    "inflow_5d_yi": -9.26,
+    "pct_5d": -5.28,
+    "inflow_yi": 1.35,
+    "amount_yi": 115.21,
+    "flow_ratio_pct": 1.17
+   },
+   {
+    "sector": "轻工制造",
+    "pct": 0.44,
+    "inflow_5d_yi": -3.18,
+    "pct_5d": -6.67,
+    "inflow_yi": 1.02,
+    "amount_yi": 151.28,
+    "flow_ratio_pct": 0.67
+   },
+   {
+    "sector": "建筑装饰",
+    "pct": -0.49,
+    "inflow_5d_yi": -16.76,
+    "pct_5d": -6.54,
+    "inflow_yi": 0.56,
+    "amount_yi": 192.25,
+    "flow_ratio_pct": 0.29
+   },
+   {
+    "sector": "机械设备",
+    "pct": 0.31,
+    "inflow_5d_yi": -41.32,
+    "pct_5d": -5.15,
+    "inflow_yi": 0.14,
+    "amount_yi": 1399,
+    "flow_ratio_pct": 0.01
+   },
+   {
+    "sector": "综合",
+    "pct": -0.59,
+    "inflow_5d_yi": -1.43,
+    "pct_5d": -6.78,
+    "inflow_yi": -0.34,
+    "amount_yi": 25.42,
+    "flow_ratio_pct": -1.34
+   },
+   {
+    "sector": "商贸零售",
+    "pct": -0.1,
+    "inflow_5d_yi": -13.07,
+    "pct_5d": -8.33,
+    "inflow_yi": -0.68,
+    "amount_yi": 137.8,
+    "flow_ratio_pct": -0.49
+   },
+   {
+    "sector": "社会服务",
+    "pct": -0.62,
+    "inflow_5d_yi": -8.61,
+    "pct_5d": -6.63,
+    "inflow_yi": -0.92,
+    "amount_yi": 84.45,
+    "flow_ratio_pct": -1.09
+   },
+   {
+    "sector": "汽车",
+    "pct": 0.69,
+    "inflow_5d_yi": -17.13,
+    "pct_5d": -5.06,
+    "inflow_yi": -0.96,
+    "amount_yi": 654.86,
+    "flow_ratio_pct": -0.15
+   },
+   {
+    "sector": "房地产",
+    "pct": -0.76,
+    "inflow_5d_yi": -15.73,
+    "pct_5d": -5.61,
+    "inflow_yi": -1.29,
+    "amount_yi": 93.91,
+    "flow_ratio_pct": -1.37
+   },
+   {
+    "sector": "农林牧渔",
+    "pct": 0.03,
+    "inflow_5d_yi": -8.48,
+    "pct_5d": -3.95,
+    "inflow_yi": -2.28,
+    "amount_yi": 212.65,
+    "flow_ratio_pct": -1.07
+   },
+   {
+    "sector": "钢铁",
+    "pct": -1.44,
+    "inflow_5d_yi": -8.55,
+    "pct_5d": -5.62,
+    "inflow_yi": -2.32,
+    "amount_yi": 45.83,
+    "flow_ratio_pct": -5.06
+   },
+   {
+    "sector": "传媒",
+    "pct": 0.05,
+    "inflow_5d_yi": -31.3,
+    "pct_5d": -6.27,
+    "inflow_yi": -2.65,
+    "amount_yi": 642.19,
+    "flow_ratio_pct": -0.41
+   },
+   {
+    "sector": "建筑材料",
+    "pct": -1.01,
+    "inflow_5d_yi": -8.61,
+    "pct_5d": -6.9,
+    "inflow_yi": -3.87,
+    "amount_yi": 171.61,
+    "flow_ratio_pct": -2.26
+   },
+   {
+    "sector": "石油石化",
+    "pct": -1.07,
+    "inflow_5d_yi": -2.41,
+    "pct_5d": -6.04,
+    "inflow_yi": -4.03,
+    "amount_yi": 126.59,
+    "flow_ratio_pct": -3.18
+   },
+   {
+    "sector": "环保",
+    "pct": -1.02,
+    "inflow_5d_yi": -21.8,
+    "pct_5d": -6.46,
+    "inflow_yi": -4.91,
+    "amount_yi": 135.73,
+    "flow_ratio_pct": -3.62
+   },
+   {
+    "sector": "煤炭",
+    "pct": -2.07,
+    "inflow_5d_yi": -13.74,
+    "pct_5d": -5.62,
+    "inflow_yi": -5.15,
+    "amount_yi": 93.31,
+    "flow_ratio_pct": -5.52
+   },
+   {
+    "sector": "交通运输",
+    "pct": -0.54,
+    "inflow_5d_yi": -0.16,
+    "pct_5d": -4.13,
+    "inflow_yi": -7.02,
+    "amount_yi": 200.78,
+    "flow_ratio_pct": -3.5
+   },
+   {
+    "sector": "食品饮料",
+    "pct": -0.08,
+    "inflow_5d_yi": -22.58,
+    "pct_5d": -5.45,
+    "inflow_yi": -8.17,
+    "amount_yi": 293.4,
+    "flow_ratio_pct": -2.78
+   },
+   {
+    "sector": "基础化工",
+    "pct": -0.28,
+    "inflow_5d_yi": -70.08,
+    "pct_5d": -6.2,
+    "inflow_yi": -8.52,
+    "amount_yi": 725.69,
+    "flow_ratio_pct": -1.17
+   },
+   {
+    "sector": "公用事业",
+    "pct": -1.22,
+    "inflow_5d_yi": -24.93,
+    "pct_5d": -5.36,
+    "inflow_yi": -12.83,
+    "amount_yi": 281.53,
+    "flow_ratio_pct": -4.56
+   },
+   {
+    "sector": "非银金融",
+    "pct": -1.33,
+    "inflow_5d_yi": -37.56,
+    "pct_5d": -3.58,
+    "inflow_yi": -13.34,
+    "amount_yi": 317.98,
+    "flow_ratio_pct": -4.2
+   },
+   {
+    "sector": "医药生物",
+    "pct": -1.09,
+    "inflow_5d_yi": -119.27,
+    "pct_5d": -6.97,
+    "inflow_yi": -17.06,
+    "amount_yi": 734.42,
+    "flow_ratio_pct": -2.32
+   },
+   {
+    "sector": "有色金属",
+    "pct": -1.33,
+    "inflow_5d_yi": -101.18,
+    "pct_5d": -6.86,
+    "inflow_yi": -20.7,
+    "amount_yi": 706.83,
+    "flow_ratio_pct": -2.93
+   },
+   {
+    "sector": "计算机",
+    "pct": -0.11,
+    "inflow_5d_yi": -102.62,
+    "pct_5d": -5.97,
+    "inflow_yi": -22.95,
+    "amount_yi": 978.43,
+    "flow_ratio_pct": -2.35
+   }
+  ],
+  "top": [
+   {
+    "sector": "电子",
+    "pct": 0.87,
+    "inflow_5d_yi": 120.93,
+    "pct_5d": -3.08,
+    "inflow_yi": 64.73,
+    "amount_yi": 4545.2,
+    "flow_ratio_pct": 1.42
+   },
+   {
+    "sector": "国防军工",
+    "pct": 1.16,
+    "inflow_5d_yi": -48.34,
+    "pct_5d": -6.8,
+    "inflow_yi": 9.56,
+    "amount_yi": 389.96,
+    "flow_ratio_pct": 2.45
+   },
+   {
+    "sector": "通信",
+    "pct": 0.53,
+    "inflow_5d_yi": 74.21,
+    "pct_5d": -4.25,
+    "inflow_yi": 8.02,
+    "amount_yi": 1376.09,
+    "flow_ratio_pct": 0.58
+   },
+   {
+    "sector": "家用电器",
+    "pct": 1.16,
+    "inflow_5d_yi": -25.65,
+    "pct_5d": -4.93,
+    "inflow_yi": 6.02,
+    "amount_yi": 310.62,
+    "flow_ratio_pct": 1.94
+   },
+   {
+    "sector": "银行",
+    "pct": -0.31,
+    "inflow_5d_yi": -28.35,
+    "pct_5d": -1.3,
+    "inflow_yi": 5.41,
+    "amount_yi": 414.41,
+    "flow_ratio_pct": 1.31
+   },
+   {
+    "sector": "美容护理",
+    "pct": 0.21,
+    "inflow_5d_yi": 10.23,
+    "pct_5d": -5.9,
+    "inflow_yi": 3.02,
+    "amount_yi": 32.87,
+    "flow_ratio_pct": 9.19
+   },
+   {
+    "sector": "电力设备",
+    "pct": -0.32,
+    "inflow_5d_yi": -86,
+    "pct_5d": -7.06,
+    "inflow_yi": 2.85,
+    "amount_yi": 1088.42,
+    "flow_ratio_pct": 0.26
+   },
+   {
+    "sector": "纺织服饰",
+    "pct": 0.43,
+    "inflow_5d_yi": -9.26,
+    "pct_5d": -5.28,
+    "inflow_yi": 1.35,
+    "amount_yi": 115.21,
+    "flow_ratio_pct": 1.17
+   },
+   {
+    "sector": "轻工制造",
+    "pct": 0.44,
+    "inflow_5d_yi": -3.18,
+    "pct_5d": -6.67,
+    "inflow_yi": 1.02,
+    "amount_yi": 151.28,
+    "flow_ratio_pct": 0.67
+   },
+   {
+    "sector": "建筑装饰",
+    "pct": -0.49,
+    "inflow_5d_yi": -16.76,
+    "pct_5d": -6.54,
+    "inflow_yi": 0.56,
+    "amount_yi": 192.25,
+    "flow_ratio_pct": 0.29
+   }
+  ],
+  "bottom": [
+   {
+    "sector": "计算机",
+    "pct": -0.11,
+    "inflow_5d_yi": -102.62,
+    "pct_5d": -5.97,
+    "inflow_yi": -22.95,
+    "amount_yi": 978.43,
+    "flow_ratio_pct": -2.35
+   },
+   {
+    "sector": "有色金属",
+    "pct": -1.33,
+    "inflow_5d_yi": -101.18,
+    "pct_5d": -6.86,
+    "inflow_yi": -20.7,
+    "amount_yi": 706.83,
+    "flow_ratio_pct": -2.93
+   },
+   {
+    "sector": "医药生物",
+    "pct": -1.09,
+    "inflow_5d_yi": -119.27,
+    "pct_5d": -6.97,
+    "inflow_yi": -17.06,
+    "amount_yi": 734.42,
+    "flow_ratio_pct": -2.32
+   },
+   {
+    "sector": "非银金融",
+    "pct": -1.33,
+    "inflow_5d_yi": -37.56,
+    "pct_5d": -3.58,
+    "inflow_yi": -13.34,
+    "amount_yi": 317.98,
+    "flow_ratio_pct": -4.2
+   },
+   {
+    "sector": "公用事业",
+    "pct": -1.22,
+    "inflow_5d_yi": -24.93,
+    "pct_5d": -5.36,
+    "inflow_yi": -12.83,
+    "amount_yi": 281.53,
+    "flow_ratio_pct": -4.56
+   },
+   {
+    "sector": "基础化工",
+    "pct": -0.28,
+    "inflow_5d_yi": -70.08,
+    "pct_5d": -6.2,
+    "inflow_yi": -8.52,
+    "amount_yi": 725.69,
+    "flow_ratio_pct": -1.17
+   },
+   {
+    "sector": "食品饮料",
+    "pct": -0.08,
+    "inflow_5d_yi": -22.58,
+    "pct_5d": -5.45,
+    "inflow_yi": -8.17,
+    "amount_yi": 293.4,
+    "flow_ratio_pct": -2.78
+   },
+   {
+    "sector": "交通运输",
+    "pct": -0.54,
+    "inflow_5d_yi": -0.16,
+    "pct_5d": -4.13,
+    "inflow_yi": -7.02,
+    "amount_yi": 200.78,
+    "flow_ratio_pct": -3.5
+   },
+   {
+    "sector": "煤炭",
+    "pct": -2.07,
+    "inflow_5d_yi": -13.74,
+    "pct_5d": -5.62,
+    "inflow_yi": -5.15,
+    "amount_yi": 93.31,
+    "flow_ratio_pct": -5.52
+   },
+   {
+    "sector": "环保",
+    "pct": -1.02,
+    "inflow_5d_yi": -21.8,
+    "pct_5d": -6.46,
+    "inflow_yi": -4.91,
+    "amount_yi": 135.73,
+    "flow_ratio_pct": -3.62
+   }
+  ],
+  "_scope": "申万一级 31 个行业，取自东财行业榜（按名称挑出，互不为母子，无层级重叠）",
+  "_order": "rows、top 按今日主力净流入降序；bottom 为流出最大在前",
+  "_source": "ulist 点名取（代码库 2026-10-06）"
+ },
+ "sector_flow_concept": {
+  "top": [
+   {
+    "sector": "百元股",
+    "pct": 0.69,
+    "inflow_5d_yi": 259.65,
+    "pct_5d": -1.84,
+    "inflow_yi": 91.41,
+    "amount_yi": 3285.54,
+    "flow_ratio_pct": 2.78
+   },
+   {
+    "sector": "科技风格",
+    "pct": 0.87,
+    "inflow_5d_yi": 209.69,
+    "pct_5d": -0.13,
+    "inflow_yi": 83.16,
